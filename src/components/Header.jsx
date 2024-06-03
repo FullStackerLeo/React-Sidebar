@@ -1,6 +1,6 @@
 // Header.js
 import React    from 'react';
-import logo_sm  from "/src/static/picture/logo-sm.svg"
+import logo_sm  from "/src/static/picture/logo.png"
 import us       from "/src/static/picture/us.jpg"
 import spain    from "/src/static/picture/spain.jpg"
 import germany  from "/src/static/picture/germany.jpg"
@@ -30,7 +30,7 @@ function Header() {
                         <img src={logo_sm} alt="Logo" height="24" />
                     </span>
                     <span className="logo-lg">
-                        <img src={logo_sm} alt="Logo" height="24" /> <span className="logo-txt">Minia</span>
+                        <img src={logo_sm} alt="Logo" height="24" /> <span className="logo-txt">ReApex</span>
                     </span>
                 </a>
 
@@ -39,7 +39,7 @@ function Header() {
                         <img src={logo_sm} alt="Logo" height="24" />
                     </span>
                     <span className="logo-lg">
-                        <img src={logo_sm} alt="Logo" height="24" /> <span className="logo-txt">Minia</span>
+                        <img src={logo_sm} alt="Logo" height="24" /> <span className="logo-txt">ReApex</span>
                     </span>
                 </a>
             </div>
