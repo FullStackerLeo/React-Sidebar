@@ -2,6 +2,7 @@
 import React from 'react';
 import giftbox from "/src/static/picture/giftbox.png"
 
+
 function SidebarLeft() {
     
     return (
